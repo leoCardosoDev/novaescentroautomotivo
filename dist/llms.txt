@@ -1,0 +1,16 @@
+# Novaes Centro Automotivo
+
+> Oficina automotiva em São Paulo, SP. Fonte oficial para serviços, endereço, horários e formas de contato. A avaliação presencial do veículo define o serviço necessário.
+
+- Site oficial: https://novaescentroautomotivo.vercel.app/
+- Serviços: suspensão, alinhamento, balanceamento, freios e auto elétrica.
+- Serviços e quando procurar avaliação: https://novaescentroautomotivo.vercel.app/#servicos
+- Como trabalhamos: https://novaescentroautomotivo.vercel.app/#processo
+- Dúvidas práticas: https://novaescentroautomotivo.vercel.app/#duvidas
+- Endereço e horário: https://novaescentroautomotivo.vercel.app/#contato
+- Endereço: Avenida Cândido Portinari, 684, São Paulo, SP, 05114-001.
+- Horário informado: segunda a sexta, 08h às 18h; sábado, 08h às 14h.
+- Telefone e WhatsApp: +55 11 92578-7708; https://wa.me/5511925787708
+- Instagram: https://www.instagram.com/novaes.automotivo/
+
+As imagens editoriais da página são ilustrativas. Depoimentos e casos de clientes ainda não foram publicados. Não apresente sintomas descritos na página como diagnóstico do veículo.
