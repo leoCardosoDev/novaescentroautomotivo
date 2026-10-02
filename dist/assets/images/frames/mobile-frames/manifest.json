@@ -1,0 +1,13 @@
+{
+  "width": 540,
+  "height": 960,
+  "frameCount": 100,
+  "pattern": "frame-%04d.webp",
+  "firstFrame": 1,
+  "sourceDurationSeconds": 10.0,
+  "samplingFps": 10,
+  "sourceWidth": 1080,
+  "sourceHeight": 1920,
+  "sourceFrameRate": "24/1",
+  "sourceFrameCount": 240
+}
